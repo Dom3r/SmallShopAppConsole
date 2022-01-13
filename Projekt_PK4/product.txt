@@ -1,0 +1,15 @@
+ProductA
+31
+13.13
+ProductB
+123
+21.32
+Mleko
+58
+3.12
+Woda
+238
+1.50
+Szynka z kurczaka
+23
+1,42

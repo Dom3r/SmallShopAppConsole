@@ -1,0 +1,8 @@
+﻿  Client.cpp
+  Manager.cpp
+  Worker.cpp
+  application.cpp
+  db.cpp
+C:\Users\Domer\Desktop\studia\PK4\a8dc1bed-gr52-repo\Projekt\Projekt_PK4\Projekt_PK4\db.cpp(21,21): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Projekt_PK4.vcxproj -> C:\Users\Domer\Desktop\studia\PK4\a8dc1bed-gr52-repo\Projekt\Projekt_PK4\Debug\Projekt_PK4.exe
